@@ -1,6 +1,14 @@
 # Dynamic Programming – Global Solution 2025
 ## Otimização de Competências para o Futuro do Trabalho
 
+### INTEGRANTES
+
+ Eric Darakjian - RM557082
+ 
+ Luciano Henrique Meriato Junior - RM554546
+
+---
+
 A proposta é usar **Programação Dinâmica** para apoiar decisões de **upskilling/reskilling**:
 dado um conjunto de competências importantes para 2030+ e um limite de horas de estudo,
 o algoritmo escolhe automaticamente quais habilidades priorizar para maximizar o impacto
